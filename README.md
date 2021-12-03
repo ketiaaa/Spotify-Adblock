@@ -24,21 +24,14 @@
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
 ### Installation/Update:
-* Just download and run [Adblock.bat](https://raw.githack.com/mrpond/BlockTheSpot/master/BlockTheSpot.bat)  
+* Just download and run [Adblock.bat](https://raw.githack.com/ketiaaa/Spotify-Adblock/main/install.ps1?token=APSGLYQDY7P5TMMH7KKXB5LBVGHVA)  
 
 or
 
 * Run The following command in PowerShell:
 ```ps1
-Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/mrpond/BlockTheSpot/master/install.ps1' | Invoke-Expression
+Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/ketiaaa/Spotify-Adblock/main/install.ps1?token=APSGLYQDY7P5TMMH7KKXB5LBVGHVA' | Invoke-Expression
 ```
-
-or
-
-1. Browse to your Spotify installation folder `%APPDATA%\Spotify`
-2. Rename `chrome_elf.dll` to `chrome_elf_bak.dll`
-2. Download `chrome_elf.zip` from [releases](https://github.com/mrpond/BlockTheSpot/releases)
-3. Unzip `chrome_elf.dll` and `config.ini` 
 
 ### Uninstall:
 * Just run uninstall.bat
