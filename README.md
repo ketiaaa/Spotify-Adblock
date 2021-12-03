@@ -24,13 +24,13 @@
 :warning: This mod is for the [**Desktop Application**](https://www.spotify.com/download/windows/) of Spotify on Windows only and **not the Microsoft Store version**.
 
 ### Installation/Update:
-* Just download and run [Adblock.bat](https://raw.githack.com/ketiaaa/Spotify-Adblock/main/install.ps1?token=APSGLYQDY7P5TMMH7KKXB5LBVGHVA)  
+* Just download and run [Adblock.bat](https://raw.githack.com/ketiaaa/Spotify-Adblock/master/install.ps1)  
 
 or
 
 * Run The following command in PowerShell:
 ```ps1
-Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/ketiaaa/Spotify-Adblock/main/install.ps1?token=APSGLYQDY7P5TMMH7KKXB5LBVGHVA' | Invoke-Expression
+Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/ketiaaa/Spotify-Adblock/main/install.ps1' | Invoke-Expression
 ```
 
 ### Uninstall:
