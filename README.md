@@ -2,7 +2,7 @@
 
 <center>
     <h1 align="center">Spotify-Adblock</h1>
-    <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
+    <h4 align="center">A adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
     <h5 align="center">Please support Spotify by purchasing premium</h5>
     <p align="center">
         <strong>Last updated:</strong> 3 December 2021<br>
@@ -37,3 +37,5 @@ Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/ketiaaa/Sp
 * Just run uninstall.bat
 or
 * Reinstall Spotify 
+
+<h1> @ketiaaa </h1>
