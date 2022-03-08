@@ -38,4 +38,4 @@ Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/ketiaaa/Sp
 or
 * Reinstall Spotify 
 
-<h3> @ketiaaa </h3>
+<h3> [@ketiaaa](https://www.instagram.com/nhomketia/) </h3>
