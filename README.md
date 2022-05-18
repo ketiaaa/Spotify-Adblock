@@ -11,7 +11,7 @@
 </center>
 
 #### Important checks before installing:
-0. Update Windows, update Spotify and update BlockTheSpot
+0. Update Windows, update Spotify and update Spotify-AdBlock
 1. Go to "Windows Security" -> "Virus & Threat Protection"
 2. Click "Allowed threats" -> "Remove all allowed threats"
 
